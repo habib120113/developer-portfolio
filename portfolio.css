@@ -63,3 +63,35 @@ nav ul {
     
 
 }
+main{
+    max-width: 1140px;
+    margin-top: 0 auto;
+    text-align: center;
+}
+.about {
+    margin-top: 130px;
+    background: #FFF8F3;
+    border-radius: 10px;
+    padding: 130px 150px;
+
+}
+.section-title {
+    text-align: center;
+    margin-bottom: 30px;
+    font-weight: 700;
+    font-size: 35px;
+
+}
+.section-description {
+    color: #757575;
+    font-size: 18px;
+
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.about-info{
+    justify-content: space-around;
+}
