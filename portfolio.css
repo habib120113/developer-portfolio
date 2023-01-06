@@ -95,3 +95,11 @@ main{
 .about-info{
     justify-content: space-around;
 }
+.what-i-do{
+    margin-top: 130px;
+
+}
+.skill{
+    display: flex;
+    
+}
